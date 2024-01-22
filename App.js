@@ -12,6 +12,8 @@ const handleHeartPress = ()=> {
 }
 //--------------------------------------------
 
+// YAPI OLARAK BİZDEN "FontAwesome" KABUL EDİYOR  
+
   return (
     <View style={styles.container}>
      
